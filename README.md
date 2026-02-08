@@ -9,6 +9,7 @@ Example programs
 Practice questions
 
 Topics Covered
+
 🔹 Python Basics
 
 Variables & Data Types
