@@ -50,7 +50,7 @@ Dictionaries
 
 Strings
 
-Object Oriented Programming (OOP)
+🔹 Object Oriented Programming (OOP)
 
 Classes & Objects
 
